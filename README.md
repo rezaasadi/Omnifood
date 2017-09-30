@@ -1,3 +1,3 @@
 # Omnifood
-Responsive Websites with HTML5 and CSS3 without BootStrap
+Responsive Websites with HTML5 and CSS3 without Bootstrap
 
