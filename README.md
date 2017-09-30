@@ -17,7 +17,7 @@ Responsive Websites with HTML5 and CSS3 without Bootstrap
 
 ## How to run application on the local computer :
 
-Open bash or cmd and direct to Omnifood folder then
+Direct to Omnifood folder then
 
 > open  index.html
 
