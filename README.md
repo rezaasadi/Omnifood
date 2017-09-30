@@ -12,7 +12,7 @@ Responsive Websites with HTML5 and CSS3 without Bootstrap
 
 
 ## technologies
-* HTML5, CSS, JS, JQuery
+* HTML5, CSS3, JS, JQuery
 
 
 ## How to run application on the local computer :
