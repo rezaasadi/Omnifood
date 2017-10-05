@@ -1,4 +1,4 @@
-# Omnifood
+# SevenStars
 Responsive Websites with HTML5 and CSS3 without Bootstrap
 
 
@@ -17,7 +17,7 @@ Responsive Websites with HTML5 and CSS3 without Bootstrap
 
 ## How to run application on the local computer :
 
-Direct to Omnifood folder then
+Direct to SevenStars folder then
 
 > open  index.html
 
